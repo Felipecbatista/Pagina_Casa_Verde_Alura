@@ -31,13 +31,13 @@
 }
 
 .item__icone--cursor {
-    background-image: url(../../_page/_includes/mouse.svg);
+    background-image: url(_includes/_page/mouse.svg);
 }
 
 .item__icone--carrinho {
-    background-image: url(../../_page/_includes/cart.svg);
+    background-image: url(_includes/_page/cart.svg);
 }
 
 .item__icone--caminhao {
-    background-image: url(../../_page/_includes/truck.svg);
+    background-image: url(_includes/_page/truck.svg);
 }

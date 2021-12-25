@@ -3,7 +3,7 @@
     padding-bottom: 2.5rem;
 
     background-color: var(--branco);
-    background-image: url(/_includes/_page/splash-rodape.svg);
+    background-image: url(_includes/_page/splash-rodape.svg);
     background-position: top -11rem right;
     background-repeat: no-repeat;
 }

@@ -58,6 +58,6 @@
 
     margin-left: 1.75rem;
 
-    background-image: url(../../_page/_includes/seta.svg);
+    background-image: url(_includes/_page/seta.svg);
     background-size: contain;
 }

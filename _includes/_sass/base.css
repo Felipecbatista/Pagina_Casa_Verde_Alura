@@ -1,12 +1,9 @@
-@import url(_variaveis.css);
-@import url(_reset.css);
-
 body {
     font-family: var(--familia-corpo);
     font-size: var(--tamanho-corpo);
     color: var(--cinza);
 
-    background: url(../../_page/fundo-textura.png), url(../../_page/fundo-linhas.png);
+    background: url(_includes/_page/fundo-textura.png), url(_includes/_page/fundo-linhas.png);
     background-position: center;
 }
 
